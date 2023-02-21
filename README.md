@@ -1,5 +1,8 @@
 # WeNet On-device ASR Android Demo
 
+fxzWenet\app\src\main\assets\final.zip 需要用提取码下载
+fxzWenet\app\release\app-release.apk 需要用提取码下载
+
 This Android demo shows we can run on-device streaming ASR with WeNet. You can download our prebuilt APK or build your APK from source code.
 
 ## Prebuilt APK
