@@ -5,7 +5,9 @@ fxzWenet\app\src\main\assets\final.zip 需要用提取码下载
 fxzWenet\app\release\app-release.apk 需要用提取码下载
 
 fxzWenet\app\build\pytorch_android-1.10.0.aar
+
 fxzWenet\app\build\wenet-openfst-android-1.0.2.aar
+
 fxzWenet\app\build\intermediates需要用提取码下载
 
 This Android demo shows we can run on-device streaming ASR with WeNet. You can download our prebuilt APK or build your APK from source code.
