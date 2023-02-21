@@ -1,0 +1,8 @@
+com/mobvoi/wenet/VoiceRectView.java
+ com.mobvoi.wenet.VoiceRectView
+com/mobvoi/wenet/BuildConfig.java
+ com.mobvoi.wenet.BuildConfig
+com/mobvoi/wenet/Recognize.java
+ com.mobvoi.wenet.Recognize
+com/mobvoi/wenet/MainActivity.java
+ com.mobvoi.wenet.MainActivity
